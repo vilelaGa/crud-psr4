@@ -1,0 +1,6 @@
+<?php
+
+DEFINE("IP_SERVER", "185.213.81.205");
+DEFINE("DB_NAME", "u350863438_app_test");
+DEFINE("DB_USER", "u350863438_app");
+DEFINE("DB_PASS", "z@2#|D5A7HPF");
